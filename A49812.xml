@@ -1,0 +1,308 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A serious remembrancer to live well written primarily to children and young people, secondarily to parents, useful (I hope) for all : lastly, compendious remarks of the death of Jonah Lawson who finished his course upon earth the 23d day of the month called February, 1683, in the 14th year of his age / [by] Tho. Lawson.</title>
+            <author>Lawson, Thomas, 1630-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49812</idno>
+            <idno type="STC">Wing L727</idno>
+            <idno type="STC">ESTC R34960</idno>
+            <idno type="EEBO-CITATION">14916511</idno>
+            <idno type="OCLC">ocm 14916511</idno>
+            <idno type="VID">102901</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49812)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102901)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1573:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A serious remembrancer to live well written primarily to children and young people, secondarily to parents, useful (I hope) for all : lastly, compendious remarks of the death of Jonah Lawson who finished his course upon earth the 23d day of the month called February, 1683, in the 14th year of his age / [by] Tho. Lawson.</title>
+                  <author>Lawson, Thomas, 1630-1691.</author>
+               </titleStmt>
+               <extent>32 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Quaker authors.</term>
+               <term>Society of Friends --  Doctrines.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102901:1"/>
+            <p>A <hi>Serious Remembrancer</hi> To Live Well. Written <hi>Primarily</hi> to CHILDREN, And Young PEOPLE.</p>
+            <p>
+               <hi>Secondarily,</hi> to PARENTS. Uſeful (I hope) for All.</p>
+            <p>Laſtly, Compendious Remarks of the Death of <hi>Jonah Lawſon,</hi> who finiſhed his Courſe upon Earth, the 23d Day of the Month called <hi>February,</hi> 1683. in the 14th Year of his Age.</p>
+            <p>
+               <q>
+                  <hi>Non miſere quiſquam, qui bene vixit, obit.</hi>
+               </q>
+               <q>O be wiſe-hearted, knowing that beneath We always ſail towards the Port of Death.</q>
+            </p>
+            <p>
+               <hi>THO. LAWSON.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1684.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:102901:2"/>
+            <pb n="3" facs="tcp:102901:2" rendition="simple:additions"/>
+            <head>A <hi>Serious Remembrancer</hi> To Live well, <hi>&amp;c.</hi>
+            </head>
+            <p>CHildren, and Young People, pro<g ref="char:EOLhyphen"/>miſe not to your ſelves many days; you know not how near your Glaſs is run out, when you ſhall be commended to Earthen Sheets, to your long home.</p>
+            <p>Let not the Indulgence of Teachers, nor the Example of the Multitude, ſunk in the Mire of Folly, Vanity, Youthful Luſts, Intemperancy, Unru<g ref="char:EOLhyphen"/>lineſs of Mind, Unſtayedneſs, Wan<g ref="char:EOLhyphen"/>tonneſs, and of Unſavourineſs, be pre<g ref="char:EOLhyphen"/>valent with you, or give you encou<g ref="char:EOLhyphen"/>ragement to forget the Lord in your tender Years; who made you to bear his Image, to ſubmit to his Scepter, to live under his Holy and Righteous
+<pb n="4" facs="tcp:102901:3"/>Government and Regiment; in a word, to ſerve him all the days of your ap<g ref="char:EOLhyphen"/>pointed time, in Newneſs of Life, and not your ſelves; who Crowns his Fol<g ref="char:EOLhyphen"/>lowers with Endleſs Peace, and Spi<g ref="char:EOLhyphen"/>ritual Conſolation, and Enriches them with Durable, Laſting, yea, Ever<g ref="char:EOLhyphen"/>laſting Treaſures and Subſtance, Su<g ref="char:EOLhyphen"/>perlatively Surmounting all Worldly Tempting Offers of Fading Wealth, Pleaſures or Honours.</p>
+            <p>'Tis a precious thing, when Chil<g ref="char:EOLhyphen"/>dren and Young People, like <hi>Gideon</hi>'s Fleece, drink up betime the Pearly Dew of Divine Grace, and Heavenly Vertue, ſo that their Spiritual Growth in the Faith tends Heaven-wards, up<g ref="char:EOLhyphen"/>right and tall of Stature, Fruitful, al<g ref="char:EOLhyphen"/>ways Green and Flouriſhing, as the Palm-Tree, not bowed down with the weight of the Worldly Spirit, or Earthly-mindedneſs.</p>
+            <p>Children, and Young People, promiſe not to your ſelves length of Days, he that gives Life and Breath, can take it when and how he pleaſes: Read your Mortality in the Creation; the fair
+<pb n="5" facs="tcp:102901:3"/>Damask Roſe ſoon withers, the faireſt Bloſſom is ſoon blaſted, the moſt fra<g ref="char:EOLhyphen"/>grant Aromatical Flower quickly fades, the Dewy Morning haſtes away, the Sun (the glorious Lamp of the Firma<g ref="char:EOLhyphen"/>ment) ſoon ſets, the Shadow is gone in a Moment; <hi>Jonah</hi>'s Gourd preſently withered; the Meadows, graced with Smaragdine Greenneſs, are quickly naked; the melodious Bird, now here, is preſently gone, the Pearled Dew of the Spring ſoon aſcends, an Hour is but a ſhort time, or continuance, the bubble of a Brook is ſoon diſperſed, the Courſe of a Shuttle is ſwift, a Writing on the Sand is ſoon obliterated, a Thought ſoon paſſeth away, a Dream is ſoon gone, the glyding of a Chryſtal Stream ſoon paſſeth by, an Arrow from the Bow of the Mighty is quickly gone, the time betwixt Flood and Ebb is as no time, the Spiders Web is ſoon rent, Lightning from the Sky is ſoon vaniſhed, a Poſt is quick in his Courſe, the Snow quickly diſſolves whem Sum<g ref="char:EOLhyphen"/>mer comes: Such is the Life of Man, of ſhort continuance here upon Earth,
+<pb n="6" facs="tcp:102901:4"/>ſoon gone hence, and ſeen no more: Our Life (ſaith <hi>Petrarch</hi>) is a Race unto Death.</p>
+            <p>What then ought to be the Living Concern of every one? Even to mind the One thing neceſſary; To do that which is right in the ſight of the Lord, to give all diligence to make our Call<g ref="char:EOLhyphen"/>ing and Election ſure, faithfully to im<g ref="char:EOLhyphen"/>prove God's Gift, to walk with him as <hi>Enoch</hi> did, to grow in Acquaintance and in Favour with him, to finiſh the ſhort courſe of Life in the Holy Faith, Reverence and Fear, in the end to re<g ref="char:EOLhyphen"/>ceive the Reward of the Righteous, Everlaſting Bleſſedneſs in the Fruition of God.</p>
+            <p>Children, and Young People, and whoſoever reads this, that you may be honoured with the Bleſſedneſs and Happy End of the Righteous, take Counſel, and comply with God's way and means that leads to this Bleſſedneſs.</p>
+            <p>Conſider <hi>John</hi>'s Record of the <hi>Eternal Word,</hi> who ſaid, <hi>In him was Life, and the Life was the Light of Men:</hi> Mark this, <hi>His Life is the Light of Men:</hi> Of
+<pb n="7" facs="tcp:102901:4"/>what Men? <hi>Of every Man that comes into the World; yea, Light, which is of the Life, ſhines in Darkneſs,</hi> in Hearts darkened by <hi>Satan,</hi> the Captain and Ring-leader of his wretched Captives and Slaves, but <hi>Darkneſs, Satan's Cap<g ref="char:EOLhyphen"/>tives, comprehends not the Light, nor ſuch as walk in it,</hi> John 1.4, 5, 9. This Record of <hi>John</hi> evidently holds out the Quality of the Light, to be of the Life, a Pure, Divine, Heavenly and Eſſential Principle, and the Univerſality of it, in every Man. And <hi>Paul</hi> was ſent, <hi>To turn People from Darkneſs,</hi> which comprehends not the Light, nor the Leadings and Operations thereof, nor the Children of Light, <hi>to the Light,</hi> which comprehends Darkneſs, and the Children of Darkneſs, <hi>Acts</hi> 26.16, 17, 18.</p>
+            <p>So Children, and Young People, come out of Darkneſs, out of defiling Self, to the pure, divine eſſential Principle in you; <hi>be ye ſeparate from Darkneſs, to the Light of Life,</hi> then are you Sepa<g ref="char:EOLhyphen"/>ratiſts indeed, and ſhall grow up in the Saving Knowledge of the Lord,
+<pb n="8" facs="tcp:102901:5"/>of the Myſteries of his Kingdom, and of the things that concern your Peace and Everlaſting Well-being.</p>
+            <p>And as you keep to, and continue in, the pure Principle of God in you, it will ſhew you Sin and Evil, every vain Thought, Deſire, Imagination, and Un<g ref="char:EOLhyphen"/>righteous Inclinations, and ſecretly check and reprove you, when you en<g ref="char:EOLhyphen"/>ter into the ſame <hi>(for the Reproofs of Inſtruction are the way of Life)</hi> it will kindle you into deſires after Innocency: and beget in you a hunger after Righ<g ref="char:EOLhyphen"/>teouſneſs, and you will come to be weaned from the vain Ways, Cuſtoms, Faſhions, Sports and Paſtimes of the World, and being eſtabliſhed in Grace, you come to know what the true Wor<g ref="char:EOLhyphen"/>ſhip is, even in Spirit and in Truth; that Repentance which is never to be repented of; the pure and undefiled Religion, which keeps out of the Spots of the World; the Fear of the Lord, which is the beginning of Wiſdom, even that Fear which tendeth to Life, where ſtrong Confidence is; here the Fountain of Life is known; here every
+<pb n="9" facs="tcp:102901:5"/>Evil Way is hated, and the Snares of Death are eſcaped.</p>
+            <p>
+               <hi>John</hi> bare Record, that Chriſt light<g ref="char:EOLhyphen"/>eth every Man; and Chriſt informs us, who are Lovers thereof, and who are not, <hi>Every one that doth Evil</hi> (ſaith he) <hi>hateth the Light, and will not come to it, leſt his Deeds ſhould be reproved; but he that doth Truth, cometh to the Light, that his Deeds may be made manifeſt, that they are wrought in God,</hi> John 3.20, 21. <hi>Evil cannot be wrought in the Light, nor Good without it.</hi>
+            </p>
+            <p>Children, and Young People, who are inwardly touched, to make a Good Confeſſion of the Pure Divine Principle in you; not by <hi>Verbal Demonſtration</hi> only, but by willing and ready Obedi<g ref="char:EOLhyphen"/>ence, and Subjection to its Commands, in faithful Wreſtling againſt the Evil it manifeſts, whether Thought, Word or Deed, and preſſing after the Good, Vertuous and Sober Life it calls for; <hi>perſevere</hi> in this Grace, ſo ſhall you be living Witneſſes of precious things, yea, that ye are God's Workmanſhip.</p>
+            <pb n="10" facs="tcp:102901:6"/>
+            <p>The <hi>Shunamite</hi>'s Child being dead, <hi>Eliſha</hi> ſtretched himſelf upon it, and the Fleſh of the Child waxed warm, and neeſed ſeven times, an evident ſign of Life and Strength; Nature ariſing to expel Flatulent and Peccant Vapours; he opened his Eyes, and was embraced by his Mother, 2 <hi>Kings</hi> 4.</p>
+            <p>This you ſhall read, continuing in the Grace of God, living in that which crucifies the Fleſh, tho' dead in Sins and Treſpaſſes, you ſhall receive the Quickening Power; your Hearts ſhall grow warm, as I may ſay, a Spiritual Warmneſs iſſues from the Quickening Power: Said not the Diſciples, after Chriſt was riſen, <hi>Did not our Hearts burn within us, while he talked with us by the way, and while he opened to us the Scriptures?</hi> Luke 24. Here was a Spi<g ref="char:EOLhyphen"/>ritual Warming.</p>
+            <p>This you ſhall read, as you live in the Grace of God, and become inward Jews, Worſhippers of God in Spirit and in Truth; tho' you were once Dark, yea, Darkneſs it ſelf, yet re<g ref="char:EOLhyphen"/>ceiving the Pure Divine Principle in
+<pb n="11" facs="tcp:102901:6"/>you, you become enlightned by it, and living in it, and obeying it in all things, a Heavenly Increaſe is known; here is a changing from Glory to Glory; once Darkneſs, now Light in the Lord, a walking as Children of the Light; and walking here, the whole courſe of your Life is a Feaſt, kindly receive what comes from the Hand of the Lord, be true to that which ſecretly Reproves and Judges, remembering <hi>that Zion is redeemed with Judgment, and her Con<g ref="char:EOLhyphen"/>verts with Righteouſneſs;</hi> keep out of the Snares of the Earth, knowing the way of God, walk in it; remember <hi>ſhe was cloathed with the Sun, that had the Moon under her feet,</hi> Rev. 12. So in the Faith put on the Lord Jeſus.</p>
+            <p>Children, and Young People, and who-ever read this, Remember that under the Firſt Covenant, the Law was written in <hi>Tables of Stone;</hi> but in the New Covenant, the Law is written in the <hi>Heart,</hi> in the inward parts; and that the Lord will be the Teacher of his People, and that he will blot out their Sins, and remember their Iniqui<g ref="char:EOLhyphen"/>ties
+<pb n="12" facs="tcp:102901:7"/>no more; this Law is Pure, Di<g ref="char:EOLhyphen"/>vine, Eſſential, and to be owned and received where it is; and they who do not, are deniers of the New Covenant, their Names are written in the Earth; 'tis Satan's ſleight to bring Men to neglect Divine Grace, the Royal Law, where it is, and to ſeek it where it is not to be found.</p>
+            <p>That's it which, in the Cloſet of your Hearts, ſhews you Sin and Evil, checks, and reproves, and diſquiets you, when Evil is committed: And moves to Righteouſneſs; in the Obedience, a daily Mortification is known, a daily blotting out of Iniquity is witneſſed; your Name comes to be written in the Book of Life; Fellowſhip with the Father, in the Son, is known.</p>
+            <p>The Renovation of Man is a gradual Work, the outward Jews divided the Night into ſeveral Watches: <hi>They had their beginning of the Watches,</hi> Lam, 12.19. <hi>Their middle Watch,</hi> Judg. 7. <hi>The Morning Watch,</hi> Exod. 14. In this, <hi>The Egyptians were drowned:</hi> In this, <hi>Jeſus walked on the Sea,</hi> Mat. 14. In
+<pb n="13" facs="tcp:102901:7"/>theſe Watches, the outward <hi>Jew</hi> ſaw the Curtain of the Night wear out, paſs away, one ſucceeded another.</p>
+            <p>By diſobedience a Night of Blindneſs, Darkneſs, Ignorance and Infidelity, came upon Man; herein he was over<g ref="char:EOLhyphen"/>whelmed, the Sun of Righteouſneſs being manifeſt, he Preached us a Watch of a Spiritual Nature and Tendency, ſaying, <hi>What I ſay to one, I ſay to all, Watch,</hi> Mark 13.37.</p>
+            <p>You owning the Light of Life in you, the pure Principle of God, which ſhews you Sin and Evil; if you obey it, you are come to the beginning, the day dawning, and the Day-Star ari<g ref="char:EOLhyphen"/>ſing in your Hearts, in this Morning-Watch; you ſee the <hi>Egyptian</hi>'s Fleſh Crucified, with the Affections and Luſts thereof; Chriſt walking on the Sea, Waves of Iniquity brought under his Power, he ruling in your Hearts by Faith: The Apoſtle read this, who ſaid, <hi>The Night is far ſpent, the Day is at hand, let us caſt off the works of Darkneſs, and let us put on the Armour of Light,</hi> Rom. 13.12. Now Kin<g ref="char:EOLhyphen"/>dreds,
+<pb n="14" facs="tcp:102901:8"/>Tongues, People and Nations, Profeſſors or Profane, who deny the Light, and Subjection thereunto, they are not come to the beginning of Watches, ſo are far from the Morn<g ref="char:EOLhyphen"/>ing.</p>
+            <p>But you that own the Light of Life in you, and are livingly concerned, that your Light may ſhine forth before Men; you that in Faith and Patience, <hi>bear about in your Bodies the Dying of the Lord Jeſus, that his Life may be manifeſt in your Mortal Bodies:</hi> You that labour and wreſtle for a part in the firſt Reſurrection, you have your Senſes exerciſed to the diſcerning of Good and Evil, you have the Senſes of the New Man, created in Chriſt Je<g ref="char:EOLhyphen"/>ſus; you have an Eye to ſee your Cre<g ref="char:EOLhyphen"/>ator, and his name is in your Fore<g ref="char:EOLhyphen"/>heads; you hear his Voice, and deny the Voice of the Stranger; the ſweet Savour of Chriſt, as precious Spikenard, refreſhes you; you daily taſte that the Lord is Gracious, your hands handle the Word of Life.</p>
+            <pb n="15" facs="tcp:102901:8"/>
+            <p>Children, young People and others, who feel a pure divine Principle in you, moving Heaven-wards, be obedient to it in all things, ſo you grow from Grace to Grace in the inviſible Life; as you put off what it manifeſts to be evil, watch in it, wait in it, to grow up in the living Truth, therein gird up the loyns of your Minds, 1 <hi>Pet.</hi> 1.13. Let not any inward impediments ſtop you in your Heavenly Journey.</p>
+            <p>In Eaſtern Countries, they wear long and looſe Garments, which-ſeveral tucked and girded up, leſt they ſhould hinder them; as, <hi>Souldiers, Jewiſh Prieſts, Travellers, Runners, Wreſtlers, Table-Servers,</hi> to ſerve more readily.</p>
+            <p>Now the Apoſtle brings them to the Inward, to the Spiritual Girding up, ſaying, <hi>Gird up the loyns of your Minds,</hi> 1 Pet. 1.13. And 'tis of as abſolute ne<g ref="char:EOLhyphen"/>ceſſity now, as then, to wait in the Light of Life; gird up the loyns of your Mind, ſet your Affections on Hea<g ref="char:EOLhyphen"/>venly things, otherwiſe you cannot be good Souldiers of Jeſus Chriſt, to fight
+<pb n="16" facs="tcp:102901:9"/>the Fight of Faith, neither can you be of the Royal Prieſthood, nor perform the Heavenly Journey, nor run the Race of the Righteous, nor wreſtle ſo as to obtain the Bleſſing, nor ſit at Chriſt's Table, partake of his Bleſſings, manifold Spiritual Graces; ſo keep out of the Earth, growing up in Heavenly mindedneſs.</p>
+            <p>Chriſt ſaid to the <hi>Phariſees,</hi> who li<g ref="char:EOLhyphen"/>ved in obſtinate contradiction to him, and his ſaving Doctrine, <hi>The Kingdom of God is within you,</hi> Luke 17.21. <hi>They ſlighted the Kingdom of God where it was, and ſought it where it was not to be found, in empty Obſervations without, as deluded Formaliſts do now:</hi> He alſo ſaith, <hi>The Kingdom of God is like to a Grain of Muſtard-Seed, to Leaven, to a Pearl.</hi> Now Children, young People, and who ever reads this, mind the King<g ref="char:EOLhyphen"/>dom of God within you, the Light of Life, which ſhews you Sin and Evil; <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd in complying therewith, it leads you out of the Region of Death, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtabliſhes you in the juſt Man's Path; <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o you read theſe Parables, and come to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he end and fulfilling thereof.</p>
+            <pb n="17" facs="tcp:102901:9"/>
+            <p>
+               <hi>A Grain of Muſtard-Seed, tho' little, yet becomes a Tree, in the ſtrange preg<g ref="char:EOLhyphen"/>nancy of the Hebrew Earth,</hi> Matth 13. Such is its quality, as to quicken the Appetire, warm the Stomach, purge the Head, cauſes Sneezing, cures the Lethargy, a drowſie forgetful Diſtem<g ref="char:EOLhyphen"/>per, <hi>&amp;c.</hi> So the Kingdom of God with<g ref="char:EOLhyphen"/>in you, the Light of Life, the Eye of the inward Man, the Talent commit<g ref="char:EOLhyphen"/>ted for improvement; tho little, yet in the improvement becomes great; the Tree of Life is brought forth, the Heal<g ref="char:EOLhyphen"/>er of Nations, its Vertue, Quality, Influence and Operation is precious, it begets a hunger and pure deſire after heavenly Food, it kindles a Spiritual warmneſs and fervency, purges out Corruption, the filth of Sin, cauſes a ſpiritual ſtruggling againſt what is Hurtful and Offenſive, and cures Man of his ſpiritual Lethargy, his drowſie forgetful State, wherein he forgets the Lord, even to have the Lord always in his thoughts.</p>
+            <p>Leaven was in the three Meaſures of Meal, before they were leavened,
+<pb n="18" facs="tcp:102901:10"/>yet though little, it gradually diffuſes its quality, ſpreads it ſelf thorough the ſame, and makes them of its own Na<g ref="char:EOLhyphen"/>ture; ſo Light ſhines in Darkneſs, the <hi>The Kingdom of God is in Men,</hi> though Phariſaical Unregenerate; yet you that receive it, comply with its heavenly Motions, and quench them not, co<g ref="char:EOLhyphen"/>operate with its Inſpiration, tho' little, as I may ſay, <hi>Yet the three Meaſures come to be leavened, Body, Soul and Spi<g ref="char:EOLhyphen"/>rit, comes to be ſanctified, and preſerved blameleſs,</hi> 1 Theſ. 5.23. thus Compli<g ref="char:EOLhyphen"/>ers with divine Operations, become Bearers of the Image of the Heavenly; renewed, transformed, changed, from Glory to Glory: <hi>As he is,</hi> ſaith <hi>John, ſo are we in this World,</hi> 1 John 4.17.</p>
+            <p>So you that profeſs Chriſt, the Pearl of great price, be the wiſe Merchant, ſell all and buy it, give up your Luſts, Fleſhly Deſires, Soul-murthering Con<g ref="char:EOLhyphen"/>cupiſcence, Pomp, Vain-glory, Oſten<g ref="char:EOLhyphen"/>tation, ſinful tranſitory Pleaſures, to the death of the Croſs, that you may read this Parable, know this Pearl formed in you.</p>
+            <pb n="19" facs="tcp:102901:10"/>
+            <p>There is (ſaith <hi>Wolfgangus, Franzius,</hi> and other Naturaliſts) a ſhell-Fiſh, which through Natures inſtinct, de<g ref="char:EOLhyphen"/>ſires warmneſs in the Spring, thirſts after the Dew of Heaven, opens and receives it: Hereof is formed the viſi<g ref="char:EOLhyphen"/>ble Pearl, ſaid to be <hi>Alexipharmical,</hi> effectual againſt Poyſon, and the Shell which brings forth this, is called <hi>The Mother of Pearl.</hi>
+            </p>
+            <p>Wait in the Light of Life, follow Chriſt in the Regeneration, to be the wiſe Merchant, ſo this you read; here<g ref="char:EOLhyphen"/>in you thirſt after ſpiritual Warmneſs, after the Dew of Divine Grace; here<g ref="char:EOLhyphen"/>in your Hearts open, incorruptible dew of Heaven you receive, <hi>Chriſt the Pearl is formed in you,</hi> Gal. 4.9. Here you become the Mother of Pearl, <hi>Whoſo<g ref="char:EOLhyphen"/>ever doth the will of my Father,</hi> ſaith Chriſt, <hi>the ſame is my Brother, and Si<g ref="char:EOLhyphen"/>ſter, and Mother,</hi> Matth, 12.50 this purges out the Poyſon of Sin.</p>
+            <p>Parents, you who have known the healing Vertue of the Almighty, be vi<g ref="char:EOLhyphen"/>gilant, circumſpect and tender over your Children, by Example and Ad<g ref="char:EOLhyphen"/>monition,
+<pb n="20" facs="tcp:102901:11"/>for their eſtabliſhment in Grace.</p>
+            <p>You that have known the healing vertue of <hi>Betheſda,</hi> in the Myſtery, by Interpretation, the <hi>Houſe of God,</hi> ſo that of Impotent or Strengthleſs, you are become Strong in the Lord; of Blind, you are become clear-ſighted in the Myſteries of the Kingdom; of Halting, Lame, you are reſtored to Soundneſs; ſo that you can run, and not be weary, in the courſe of Righte<g ref="char:EOLhyphen"/>ouſneſs; of Withered, you are become Lively, Freſh, Tender, full of ſpiritu<g ref="char:EOLhyphen"/>al Moiſture: Be circumſpect and ten<g ref="char:EOLhyphen"/>der over your Children, that they may be living Witneſſes of the ſame healing Vertue.</p>
+            <p>You that have paſſed thorough <hi>Jor<g ref="char:EOLhyphen"/>dan,</hi> in the Myſtery, the River of Judgment, by Interpretation, thorough Judgments have felt and received the Water of Liſe, whereby you are bap<g ref="char:EOLhyphen"/>tiſed into the one Body, cleanſed from the Leproſie of Sin, Iniquity and Tranſ<g ref="char:EOLhyphen"/>greſſion, are come to the good Land, Plenteous in Milk and Hony, Food of
+<pb n="21" facs="tcp:102901:11"/>Heaven, neceſſary to the heavenly Life, you that are come to the City of Re<g ref="char:EOLhyphen"/>fuge.</p>
+            <p>You that are come to Chriſt Jeſus, the Ark of Safety, more durable than Gopher-wood; know your Rooms, your heavenly Places there, ſo that the deluge of Iniquity ſhall not over whelm you.</p>
+            <p>You that are Green, Flouriſhing and Fruitful Branches of the True Vine, Chriſt Jeſus.</p>
+            <p>You that have known, and know, Chriſt knocking at the Door of your Hearts, by Favours, Mercies, Judg<g ref="char:EOLhyphen"/>ments, Chaſtiſements, Miniſters, Mo<g ref="char:EOLhyphen"/>tions of his good Spirit, and entertain him, who comes not empty, but with plenty of Grace, Goodneſs, and hea<g ref="char:EOLhyphen"/>venly Treaſures, which he communi<g ref="char:EOLhyphen"/>cates and diffuſes, for the enriching of his Garden, his little Flock.</p>
+            <p>You that are come to the Lord's Table, and are nouriſhed with his Bread, hidden Manna, Souls Food: O let your Care, and Souls deſire be, that your Children, as Olive-Plants,
+<pb n="22" facs="tcp:102901:12"/>may ſit at the ſame Table, partake of the ſame Mercies, Bleſſings, Priviledges, Favours, and Spiritual Advantages with you, and be living Witneſſes of thoſe precious Experiences, which the good hand of God hath made you par<g ref="char:EOLhyphen"/>takers of.</p>
+            <p>Through this gracious frame of Spi<g ref="char:EOLhyphen"/>rit, <hi>Abraham</hi> obtained a good Report, <hi>Shall I,</hi> ſaid the Lord, <hi>hide from</hi> Abra<g ref="char:EOLhyphen"/>ham, <hi>that thing which I do?</hi> &amp;c. <hi>For I know that he will command his Children, and his Houſe-hold after him, and they ſhall keep the way of the Lord, to do Ju<g ref="char:EOLhyphen"/>ſtice and Judgment,</hi> Gen. 18. Now they that are of that Faith which gives ac<g ref="char:EOLhyphen"/>ceſs unto God, Victory over the World, they are of <hi>Abraham,</hi> walk in his Foot<g ref="char:EOLhyphen"/>ſteps, and cannot but deſire, that their Children, and all, might grow up in Acquaintance with the living God, ſo that every Chriſtian Father, being truely ſo, he is in his Family an Overſeer.</p>
+            <p>'Twas a Noble and Honourable Re<g ref="char:EOLhyphen"/>ſolution in <hi>Joſhua,</hi> who ſaid, <hi>I and my Ho<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe will ſerve the Lord,</hi> Joſh. 24.15.
+<pb n="23" facs="tcp:102901:12"/>As if he had ſaid, O ye Tribes of Iſ<g ref="char:EOLhyphen"/>rael, if poyſon'd with Incredulity, and Ingratitude, you Judge the living God (who hath done Wonders for you, hath given you a Land flowing with Milk and Hony, Vineyards, Olive<g ref="char:EOLhyphen"/>yards, Springs, hath given you Victo<g ref="char:EOLhyphen"/>ry over your Enemies) unworthy of your Service; take your courſe, yet this is my Reſolution, <hi>I and my Houſe will ſerve the Lord.</hi>
+            </p>
+            <p>The <hi>Holy Men</hi> of God, who in their reſpective Ages, and Generations, walked with God, felt the ſweetneſs of his comfortable Preſence; not as Neutrals and Temporizers, who change their Religion, as Times change; their living concern was, that their Children might walk in the ſame ſteps. Yea, all the Scriptures of Truth afford ſufficient Teſtimonies hereof.</p>
+            <p>
+               <hi>Train up a Child</hi> (ſaith <hi>Solomon</hi>) <hi>in the way he ſhould go: And when he is Old, he will not depart from it,</hi> Prov. 22.6. In what way ſhould he goe? In the narrow way that leads to Life, in the way of <hi>Holineſs,</hi> in the fear of the Lord,
+<pb n="24" facs="tcp:102901:13"/>bearing the Croſs of Chriſt, where the Wiſdom from above is received, which ſeaſons and ſweetens unto God, and Eſtabliſhes in Righteouſneſs, and puts off the Deeds of Darkneſs, and honours Man with an Innocent, Blameleſs and Self-denying Converſation; <hi>Come ye Children,</hi> ſaith <hi>David, hearken unto me, I will Teach you the Fear of the Lord,</hi> Pſal. 34.11. Who truly learns this Leſ<g ref="char:EOLhyphen"/>ſon, 'twill miniſter Comfort, when other Leſſons invented by Man will ſignifie nothing, but be a Burthen; <hi>Ye Fathers,</hi> &amp;c. ſaith <hi>Paul, bring up your Children in the Nurture and Admonition of the Lord,</hi> Epheſ. 6.4. Such as are careleſs upon this account, 'tis an evi<g ref="char:EOLhyphen"/>dent token they are not truly ſeaſon'd unto God; for they that are, they can<g ref="char:EOLhyphen"/>not but deſire the Spiritual and Eter<g ref="char:EOLhyphen"/>nal well-being of their Children.</p>
+            <p>Now you Parents, truly made alive by the Quickening Word, who Live, Move, and have your Being in God, be concern'd for your Children, that they may witneſs the ſame Travel; when the Keepers of the Houſe ſhall tremble,
+<pb n="25" facs="tcp:102901:13"/>and the ſtrong Men ſhall bow them<g ref="char:EOLhyphen"/>ſelves, and the Grinders ceaſe, becauſe they are few, and thoſe that look out of the Windows be darkned; in a word, when Old Age hath ſeized on you, ſo as you wait for, and expect the Diſ<g ref="char:EOLhyphen"/>ſolution of your Earthly Tabernacles, 'twill miniſter much Comfort and Con<g ref="char:EOLhyphen"/>ſolation to you, that you feel your Children growing up in Innocency, Branches of the true Vine, Chriſt Je<g ref="char:EOLhyphen"/>ſus; and in them, after your Bodies are commended to Earthen Sheets, you, as I may ſay, Live. <hi>Ambroſe,</hi> in his Funeral Oration upon <hi>Theodoſius,</hi> a Chriſtian Emperor, ſaid, <hi>Theodoſius,</hi> a great Emperor, is gone from us; but he is not wholly gone, for he hath left us his Children, in whom he lives ſtill: Or if, according to the good Pleaſure of the Almighty, you Survive your Child, or Children, 'twill be great Comfort and Satisfaction to you, that ſuch a Child, or Children, in that ex<g ref="char:EOLhyphen"/>erciſe, in the leaſt meaſure, feels the ſuſtaining and comforting Preſence of the Lord; ſo that you have ground to be<g ref="char:EOLhyphen"/>lieve,
+<pb n="26" facs="tcp:102901:14"/>that Child, or thoſe Children, go hence in the favour of the Lord.</p>
+            <p>This was my Exerciſe of late; I had a Son, one only Son, whoſe name was <hi>Jonah,</hi> by Interpretation, a <hi>Dove;</hi> who in Nature, I believe, much anſwered his Name; who tho' Educated in a mixed School, where his Progreſs was above what could reaſonably be ex<g ref="char:EOLhyphen"/>pected from his Years, was ſo acted and preſerved, as that in the days of his ſhort Age, I never knew him at vari<g ref="char:EOLhyphen"/>ance or ſtrife with any, or bring any complaint againſt any Scholar, or Ser<g ref="char:EOLhyphen"/>vant I kept; I never, to my know<g ref="char:EOLhyphen"/>ledge, found a Lie in his Mouth, or ſought to cloke any thing I diſliked, but would nakedly and ſimply declare Truth: I never heard as much as <hi>Maſs</hi> or <hi>Mary</hi> proceed out of his Mouth, or any Oath, too common in many <hi>Schools;</hi> having learned his Yea and Nay; in a word, as he was comfortable to us in his Life, ſo in his Death alſo.</p>
+            <p>He was wonderfully afflicted with the Small-Pox; and when we judged he was paſt the heighth thereof, he
+<pb n="27" facs="tcp:102901:14"/>came to be ſadly troubled with Flegm, with a Scowring, and great Thirſt, which in a few days carried him away; the nearer he drew to his end, the more he called for my company, and was not willing to want me.</p>
+            <p>The Night before he died, I being beſide him, <hi>John,</hi> the Son of <hi>Lancelot Fallowfield,</hi> came in, and ſaid, <hi>Jonah,</hi> How doſt thou? He anſwered, <hi>I am well Spiritually, but indifferent in Body;</hi> preſently after he ſaid, <hi>Father, talk with me;</hi> I ſaid to him, <hi>Jonah,</hi> What ſhall we talk on? He ſaid, <hi>I know not.</hi>
+            </p>
+            <p>Then being afflicted for him, and ſilled with Love to him, I ſaid, <hi>Jonah,</hi> thou knoweſt I was never harſh, but always tender to thee; he ſaid, <hi>It is ſo.</hi>
+            </p>
+            <p>Then I ſaid, <hi>Jonah,</hi> we will talk of another Kingdom: Our continuance here is very little; think of that City, whoſe Builder and Maker is God. This World is but at the beſt a Bitter-Sweet, but Heaven is nothing but Joy: Have God in thy Thoughts.</p>
+            <p>Then he anſwered, <hi>Ay Father, and I hope I have little to anſwer for; and
+<pb n="28" facs="tcp:102901:15"/>that I have a good Conſcience; I have abhorred Lying and Swearing, and what I ſaw to be Evil; and I am willing to die if it be his pleaſure; or to live, to praiſe him.</hi>
+            </p>
+            <p>His Siſter <hi>Ruth</hi> weeping beſide him, he ſaid to her, <hi>Weep not, I hope we ſhall meet in a better place.</hi>
+            </p>
+            <p>Soon after, he uttered theſe words to the Lord, <hi>The time thou haſt appoint<g ref="char:EOLhyphen"/>ed for me on the Earth, give me Grace to praiſe thy Name.</hi> Preſently after, as anſwered from above, he ſaid, <hi>O ſweet God.</hi>
+            </p>
+            <p>A little after, I coming to him, he ſaid to me, <hi>Father, Pray for me.</hi>
+            </p>
+            <p>His laſt words, a very little before his departure, were to me, and to his Siſter <hi>Ruth, So, ſo, I am coming, I am coming, I muſt yield, I muſt yield.</hi>
+            </p>
+            <p>Tho' his Affliction was exceeding great, yet he never utter'd one word ſavouring of Impatiency and Vanity; but ſuch was his Patience, and ſuch things ſo tenderly and ſavourily drop<g ref="char:EOLhyphen"/>ped from him, as wrought me into that Frame of Spirit, as freely, though
+<pb n="29" facs="tcp:102901:15"/>dearer to me than all viſible and tran<g ref="char:EOLhyphen"/>ſitory things, to commend him to the Lord; touched with much Confidence of his future Happineſs: And I wiſh I may never forget his finiſhing of his Courſe; neither do I remember it, but I am bettered by the remembrance thereof.</p>
+            <p>I remember what <hi>David</hi> ſaid to <hi>So<g ref="char:EOLhyphen"/>lomon,</hi> in order to the Building the Material Temple, <hi>
+                  <g ref="char:V">Ʋ</g>p, and be doing, and the Lord will be with thee,</hi> 1 Chron. 22.16. So you that read this, <hi>
+                  <g ref="char:V">Ʋ</g>p,</hi> ariſe from Death to Life, be doing, work in the Life, ſo the Lord will be with you, to the Building a Temple without Hands, knowing your Bodies the Tem<g ref="char:EOLhyphen"/>ple of the Holy Ghoſt, you feeding on Heavenly Food, cannot but deſire that others may partake with you. <hi>Abra<g ref="char:EOLhyphen"/>ham</hi>'s Sons and Daughters in the Faith, are not <hi>Nabal</hi>'s Fools and Churles, but deſire that others may feed of their Morſels, partake of Spiritual Bleſſings with them; ſo I conclude with <hi>Joa<g ref="char:EOLhyphen"/>chim Camerarius:</hi>
+               <pb n="30" facs="tcp:102901:16"/>
+               <q>
+                  <l>Vos virtutis iter gnatis monſtrate Parentes</l>
+                  <l>Ipſa Aquila ut pullos fida volare docet,</l>
+                  <l>Ut canere alma ocept pullos Philomela tenellos,</l>
+                  <l>Sic gegitor gnatos format &amp; ipſe pius.</l>
+               </q>
+            </p>
+            <p>Which thus I Engliſh:
+<q>
+                  <l>You Parents teach your Children Vertue's way,</l>
+                  <l>As Eagles teach their Young to fly, not ſtray;</l>
+                  <l>As Nightingales do teach their Young to ſing,</l>
+                  <l>So Parents Juſt waſh theirs in Vertue's Spring.</l>
+               </q>
+            </p>
+            <p>After this I had written, looking among his Papers, I found ſeveral Affectionate Epiſtles written in Verſe to one <hi>John Hall,</hi> School-Maſter in <hi>Cleeve-Land,</hi> his <hi>Quondam</hi> School-fel<g ref="char:EOLhyphen"/>low; a thing I never put him on, nor encouraged him to; and Verſes upon ſeveral Subjects, moſt of which his Siſters knew the time and occaſion of writing them; he wrote this follow<g ref="char:EOLhyphen"/>ing upon Man's Mortality:
+<q>
+                  <l>Death puts an end to all that do remain,</l>
+                  <l>Or which this mortal wretched World contain.</l>
+                  <l>
+                     <hi>Croeſus</hi> his Riches nothing can prevail</l>
+                  <l>Againſt the Darts of Death, when they aſſail;</l>
+                  <pb n="31" facs="tcp:102901:16"/>
+                  <l>'Tis to be moved by no means at all,</l>
+                  <l>Nor any ſpares, but brings to all a fall;</l>
+                  <l>The lofty Monarch it nothing doth regard,</l>
+                  <l>Nor from poor <hi>Irus</hi> poverty's debard;</l>
+                  <l>It can be ſhunned by no Man's intreaty,</l>
+                  <l>Of high and low, at length it makes a booty.</l>
+                  <l>The ſtrength of <hi>Milo</hi> nothing doth prevail,</l>
+                  <l>The Streams of Eloquence at length muſt fail.</l>
+                  <l>What if a Prince heap Silver up and Gold?</l>
+                  <l>Yet he muſt be interr'd within its Fold.</l>
+                  <l>What if a Mortal very learned be?</l>
+                  <l>Yet he of Death gets not the Victory.</l>
+                  <l>What if a Poor Man with Intreaty ſtrive?</l>
+                  <l>Thoſe his Intreaties keep not him alive.</l>
+                  <l>He that of Death, to get the Victory,</l>
+                  <l>Contends, he weaves th' Web of <hi>Penelope;</hi>
+                  </l>
+                  <l>Seeing 'tis ſo, be mindful of thy end,</l>
+                  <l>Thy few Days here in Vertuous Living ſpend.</l>
+               </q>
+            </p>
+            <p>Upon another Subject, he wrote thus:
+<q>
+                  <l>Humility the Spring of Vertue is,</l>
+                  <l>Humbling thy ſelf, Vertue thou canſt not miſs;</l>
+                  <l>Delight in Vertue, Vice be ſure to ſhun:</l>
+                  <l>He's happy that a Vertuous Courſe doth run.</l>
+               </q>
+            </p>
+            <p>One Night this Winter, ſome Scho<g ref="char:EOLhyphen"/>lars, in my abſence, propounded Que<g ref="char:EOLhyphen"/>ſtions one to another; upon which he
+<pb n="32" facs="tcp:102901:17"/>went to the Table, and wrote theſe following:
+<q>
+                  <l>A Virgin rare, that's paſt compare,</l>
+                  <l>Doth in few places dwell;</l>
+                  <l>But always ſhe, a Friend will be</l>
+                  <l>To thoſe that love her well.</l>
+               </q>
+            </p>
+            <p>After a little ſeaſon, he ſaid, <hi>This Virgin is Wiſdom, which comes from above, which indeed too few entertain; but ſuch as do, ſhe is their Guide and Leader to Life Eternal.</hi>
+            </p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
